@@ -1,4 +1,4 @@
 leetcode
 ========
 
-leetcode in java
+Leetcode in java
